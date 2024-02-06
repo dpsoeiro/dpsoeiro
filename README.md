@@ -2,8 +2,10 @@
 
 
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://oanalistafutebol.blogspot.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-s-298310145/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dpsoeiro)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpsoeiro&show_icons=true&theme=radical)
+
 
 ### Technical Background
 <div style="display: inline_block"><br/>
