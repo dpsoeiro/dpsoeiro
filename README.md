@@ -1,6 +1,7 @@
 ### Olá, Eu Sou o Daniel Soeiro 👋🏻
 Sou um analista de dados apaixonado por tecnologia e futebol. Tenho experiência em análise de dados, criação de dashboards e desenvolvimento de modelos preditivos para ajudar empresas a tomarem decisões informadas. Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
+### Entre em Contato:
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://oanalistafutebol.blogspot.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-s-298310145/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dpsoeiro)
 
@@ -33,4 +34,4 @@ Sou um analista de dados apaixonado por tecnologia e futebol. Tenho experiência
   <img align="center" alt="spyder" src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon"/>
   <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img align="center" alt="vstudio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-<div>
+</div>
